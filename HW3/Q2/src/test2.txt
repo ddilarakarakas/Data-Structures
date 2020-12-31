@@ -1,0 +1,3 @@
+Test etmek icin olusturulan dosyadır.
+Baska amacla kullanılamaz.
+Tüm hakları saklıdır.
